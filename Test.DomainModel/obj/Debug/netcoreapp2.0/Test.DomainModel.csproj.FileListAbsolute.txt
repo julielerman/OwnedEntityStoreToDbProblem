@@ -1,0 +1,15 @@
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/Test.DomainModel.deps.json
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/Test.DomainModel.runtimeconfig.json
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/Test.DomainModel.runtimeconfig.dev.json
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/Test.DomainModel.dll
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/Test.DomainModel.pdb
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/App.WebApi.dll
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/bin/Debug/netcoreapp2.0/App.WebApi.pdb
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/obj/Debug/netcoreapp2.0/Test.DomainModel.csproj.CoreCompileInputs.cache
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/obj/Debug/netcoreapp2.0/Test.DomainModel.AssemblyInfoInputs.cache
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/obj/Debug/netcoreapp2.0/Test.DomainModel.AssemblyInfo.cs
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/obj/Debug/netcoreapp2.0/Test.DomainModel.dll
+/Users/julialerman/Dropbox/EFCore2TestProblems/OwnedEntityStoreToDbProblem/Test.DomainModel/obj/Debug/netcoreapp2.0/Test.DomainModel.pdb
